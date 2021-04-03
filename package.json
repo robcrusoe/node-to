@@ -1,5 +1,5 @@
 {
-  "name": "node-to",
+  "name": "@robcrusoe/node-to",
   "version": "1.0.0",
   "description": "A simple NPM Package for playing around",
   "main": "app.js",
